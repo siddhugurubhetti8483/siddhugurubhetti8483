@@ -25,7 +25,7 @@ I enjoy **solving tricky problems, learning new tech, and improving processes**.
 🌱 Currently exploring **advanced automation frameworks, CI/CD pipelines, and test optimization techniques**.
 <br></br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge&logo=testinglibrary&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-2E2E2E?style=for-the-badge&logo=cypress&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-E67E22?style=for-the-badge&logo=testng&logoColor=white) ![BDD](https://img.shields.io/badge/BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-BA1E1E?style=for-the-badge&logo=apachejmeter&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F77E21?style=for-the-badge&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO.NET-6C3483?style=for-the-badge&logo=dotnet&logoColor=white) ![REST API](https://img.shields.io/badge/REST-26A69A?style=for-the-badge&logo=swagger&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-B22222?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
@@ -35,7 +35,7 @@ I enjoy **solving tricky problems, learning new tech, and improving processes**.
 
 🚀 Problem-solving | 🤝 Team Collaboration | ⚡ Fast Learner
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddhugurubhetti8483&show_icons=true&theme=radical" alt="Arti's GitHub Stats" />
