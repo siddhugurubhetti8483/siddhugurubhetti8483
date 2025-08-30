@@ -1,3 +1,9 @@
+[![ProfileViews](https://komarev.com/ghpvc/?username=siddhugurubhetti8483&color=brightgreen&style=flat-square)](https://github.com/siddhugurubhetti)
+<a><img src="https://img.shields.io/github/followers/siddhugurubhetti8483?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=7000&pause=1000&color=0074e4&center=true&vCenter=true&height=100&width=1000&&lines=Welcome+to+my+GitHub+Profile!..+🙏✌😍;" alt="Typing SVG">
+</p>
 <!--! Introduction / Bio Section -->
 
 <h1 align="center">Hi 👋, I'm Siddharam Gurubhetti</h1>
@@ -7,9 +13,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=ASP.NET+Core+%26+ADO.NET;RESTful+API+Design+%26+Development;SQL+Server+%7C+MySQL+%7C+Stored+Procedures;HTML+%2C+CSS+%2C+Angular+(Basic);Manual+Testing+%7C+Test+Case+Design+%7C+Bug+Reporting;Automation+Testing+%E2%80%93+Cypress+(UI%2C+POM)+%7C+TestNG+%7C+BDD;Version+Control+%E2%80%93+GitHub+%7C+Git;Soft+Skills+%E2%80%93+Problem+Solving+%7C+Team+Collaboration+%7C+Fast+Learner" alt="Typing SVG" />
 </p>
 
-## 💫 About Me
+## 💫 About Me :)
 
 Hey there! I’m a software engineer with **1.2 years of backend experience in ASP.NET Core and SQL**, currently upskilling in **QA Automation (Cypress), Manual Testing, API Testing, Performance Testing (JMeter), and Security Testing (Burp Suite)**.
+<a href="https://github.com/shubhanshurav"><img width="22%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
 
 **What I do:**
 
@@ -61,13 +68,17 @@ I enjoy **solving tricky problems, learning new tech, and improving processes**.
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=siddhugurubhetti8483&label=Profile%20views&color=0e75b6&style=flat" alt="siddhugurubhetti8483" />
+  <a href="https://www.linkedin.com/in/siddharam-guru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/@sid_mh13" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:siddhugurubhetti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/siddhugurubhetti8483" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!--   <img src="https://komarev.com/ghpvc/?username=siddhugurubhetti8483&label=Profile%20views&color=0e75b6&style=flat" alt="siddhugurubhetti8483" /> -->
 </p>
 
 ## 🎉 Fun Corner
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" alt="Fun GIF">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=7000&pause=1000&color=0074e4&center=true&vCenter=true&height=100&width=1000&&lines=Nice+to+meet+you...👍✌😍;" alt="Typing SVG">
+</p>
