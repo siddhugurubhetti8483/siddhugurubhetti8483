@@ -49,10 +49,10 @@ I enjoy **solving tricky problems, learning new tech, and improving processes**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddhugurubhetti8483&show_icons=true&theme=radical" alt="Siddhu's GitHub Stats" />
-  <p align="center">
+<!--   <p align="center">-->
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhugurubhetti8483&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
+<!-- </p> -->
+<!-- <p align="center"> -->
   <img src="https://streak-stats.demolab.com?user=siddhugurubhetti8483&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Siddhu's GitHub Streak" />
 </p>
 
