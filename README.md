@@ -63,11 +63,34 @@ I enjoy **solving tricky problems, learning new tech, and improving processes**.
   <img src="https://github-profile-trophy.vercel.app/?username=siddhugurubhetti8483&theme=tokyonight&row=1&column=-1" alt="GitHub Trophies" />
 </p>
 
-## 🚀 Featured Projects
 
-- [🛒 E-Commerce Website](https://github.com/YOURUSERNAME/ecommerce) – Fullstack Project showcasing **UI & Backend integration**
-- [📊 Inventory Management System](https://github.com/YOURUSERNAME/inventory-app) – Backend + Database Testing focus
-- [💻 Job Aggregator](https://github.com/YOURUSERNAME/job-aggregator) – API Testing + Automation
+## 🚀 Projects  
+
+  ### [E-Commerce Website Automation – Cypress](https://github.com/siddhugurubhetti8483/SDET)
+  - **Tech Stack Used:** Cypress (JavaScript), Mocha, Chai, GitHub, Excel/PDF Docs.  
+  - Automated end-to-end workflows of [TutorialsNinja Demo](https://tutorialsninja.com/demo/) including Home, Registration/Login, Search, Product Details, Cart, and Checkout.  
+  - Developed Page Object Model (POM) structure with Cypress for regression and functional testing.  
+  
+  ### [Cypress Automation](https://github.com/siddhugurubhetti8483/saucedemo-cypress)
+  - **Tech Stack Used:** Cypress (JavaScript), Mocha, Chai, GitHub.  
+  - Automated [SauceDemo](https://www.saucedemo.com/) application covering Login, Inventory, Cart, Checkout, Menu, Negative Scenarios, and UI validations.  
+  - Implemented headless test execution and reusable commands for fast regression testing.  
+  
+  ### [OrangeHRM Selenium Automation](https://github.com/siddhugurubhetti8483/SDET-OrangeHRM-Selenium-Automation)
+  - **Tech Stack Used:** Selenium WebDriver (Java), TestNG, Maven, Extent Reports, GitHub.  
+  - Automated [OrangeHRM Demo](https://opensource-demo.orangehrmlive.com) covering Login, Dashboard, PIM, Leave, and Admin modules.  
+  - Performed regression, smoke, and data-driven testing with detailed reporting and screenshots.  
+  
+  ### [Phoenix – Enterprise Test Automation Framework](https://github.com/siddhugurubhetti8483/BW-Project-Phoenix_Enterprise_Test_Automation_UI_API)
+  - **Tech Stack Used:** Selenium WebDriver (Java), TestNG, Cucumber (BDD), RestAssured, Maven.  
+  - Hybrid framework for [OrangeHRM Demo](https://opensource-demo.orangehrmlive.com) combining UI, API, and BDD testing.  
+  - Validated employee workflows with API + UI sync and generated Extent & Cucumber reports.  
+  
+  ### [Employee Resource Management System (ERMS)](https://github.com/siddhugurubhetti8483/ERMS_Project_BE)
+  - **Tech Stack Used:** ASP.NET (C#), SQL Server, ADO.NET, Entity Framework, NUnit.  
+  - Backend application to manage employees, projects, clients, and allocations with N-Tier architecture.  
+  - Implemented stored procedures, CRUD operations, dashboards, and resource allocation workflows.  
+
 
 ## 🌐 Socials:
 
