@@ -276,7 +276,7 @@ header {
 }
 
 .profile-img {
-  max-width: 70%;
+  max-width: 85%;
   height: auto;
   border-radius: 50%;
   object-fit: cover;
