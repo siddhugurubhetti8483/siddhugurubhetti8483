@@ -1190,6 +1190,7 @@ footer .container {
     max-width: 250px;
     width: 100%;
     height: auto;
+    margin-top: 25px;
   }
 
   .hero-content {
@@ -1277,14 +1278,13 @@ footer .container {
   }
   .navbar {
     padding: 15px 0;
-    height: 70px;
   }
   .hero .container {
     margin-top: 20px;
   }
   .profile-img {
     max-width: 200px;
-    margin-top: 10px;
+    margin-top: 25px;
   }
   .hero-content {
     margin-top: 10px;
