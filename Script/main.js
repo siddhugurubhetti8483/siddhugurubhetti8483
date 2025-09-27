@@ -63,6 +63,14 @@ hamburger.addEventListener("click", () => {
   navLinks.classList.toggle("active");
 });
 
+// Close mobile menu when clicking on links
+document.querySelectorAll(".nav-links a").forEach((link) => {
+  link.addEventListener("click", () => {
+    navLinks.classList.remove("active");
+    hamburger.setAttribute("aria-expanded", "false");
+  });
+});
+
 // Project Filtering
 filterBtns.forEach((btn) => {
   btn.addEventListener("click", () => {
