@@ -98,7 +98,7 @@ I enjoy **solving tricky problems, learning new tech, and improving processes**.
   <a href="https://www.linkedin.com/in/siddharam-guru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/@sid_mh13" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:siddhugurubhetti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!--   <a href="https://github.com/siddhugurubhetti8483" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></a> -->
+  <a href="https://github.com/siddhugurubhetti8483" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></a>
 <!--   <img src="https://komarev.com/ghpvc/?username=siddhugurubhetti8483&label=Profile%20views&color=0e75b6&style=flat" alt="siddhugurubhetti8483" /> -->
 </p>
 
