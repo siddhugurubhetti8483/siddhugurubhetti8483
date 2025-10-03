@@ -250,6 +250,7 @@ header {
   align-items: center;
   padding: 120px 0 60px;
   min-height: 90vh;
+  position: relative;
 }
 
 .hero-content {
@@ -260,6 +261,11 @@ header {
 .hero-image {
   flex: 1;
   text-align: center;
+  position: relative;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   animation: floatImage 4s ease-in-out infinite;
 }
 @keyframes floatImage {
@@ -267,7 +273,7 @@ header {
     transform: translateY(0);
   }
   50% {
-    transform: translateY(-2.4rem);
+    transform: translateY(-1.5rem);
   }
   100% {
     transform: translateY(0);
@@ -282,6 +288,72 @@ header {
   object-fit: cover;
   border: 5px solid var(--primary-color);
   box-shadow: var(--shadow);
+  transition: opacity 0.5s ease;
+  position: relative;
+  z-index: 2;
+}
+
+/* 3D Sphere Container */
+.sphere-container {
+  position: absolute;
+  top: 90%;
+  left: 90%;
+  transform: translate(-50%, -50%);
+  width: 350px;
+  height: 350px;
+  display: none;
+  z-index: 1;
+}
+
+.container-3d {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  perspective: 1000px;
+}
+
+/* 3D Sphere Icons */
+.icon-3d {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  color: var(--primary-color);
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.5s, transform 0.3s;
+  transform-origin: center center;
+  text-shadow: 0 0 10px rgba(108, 99, 255, 0.5);
+}
+
+.icon-3d:hover {
+  color: var(--secondary-color);
+  transform: scale(1.2);
+}
+
+/* Animation for float effect */
+@keyframes floatIcon {
+  0% {
+    transform: translate(-50%, -50%) translateY(0px);
+  }
+  50% {
+    transform: translate(-50%, -50%) translateY(-2.4rem);
+  }
+  100% {
+    transform: translate(-50%, -50%) translateY(0px);
+  }
+}
+
+.sphere-container.active {
+  display: block;
+  animation: floatIcon 6s ease-in-out infinite;
+}
+
+.profile-img.hidden {
+  opacity: 0;
+  pointer-events: none;
 }
 
 .typing-effect {
@@ -1183,7 +1255,19 @@ footer .container {
   }
 
   .hero-image {
-    order: -1;
+    /* order: -1; */
+    height: 300px;
+  }
+
+  sphere-container {
+    width: 280px;
+    height: 280px;
+  }
+
+  .icon-3d {
+    width: 30px;
+    height: 30px;
+    font-size: 1.2rem;
   }
 
   .hero-image img {
@@ -1282,6 +1366,23 @@ footer .container {
   .hero .container {
     margin-top: 20px;
   }
+
+  .hero-image {
+    height: 250px;
+    margin-top: 20px;
+  }
+
+  .sphere-container {
+    width: 220px;
+    height: 220px;
+  }
+
+  .icon-3d {
+    width: 25px;
+    height: 25px;
+    font-size: 1rem;
+  }
+
   .profile-img {
     max-width: 200px;
     margin-top: 25px;
